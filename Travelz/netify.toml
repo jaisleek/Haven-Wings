@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/Crypto-tracker-main/index.html"
+status = 200
